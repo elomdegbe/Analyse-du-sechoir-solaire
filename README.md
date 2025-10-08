@@ -33,13 +33,13 @@
     <li>Data Visualization</li>
   </ul>
 
-  <h3>Languages and Utilities Used</h3>
+  <h3>Langages et outils utilisés</h3>
   <ul>
     <li><strong>Languages :</strong> VBA, Formules Excel (matrices, statistiques)</li>
     <li><strong>Utilities :</strong> Microsoft Excel, Graphiques dynamiques, Tableaux croisés</li>
   </ul>
 
-  <h3>Environments Used</h3>
+  <h3>Environnements utilisés</h3>
   <ul>
     <li>Microsoft Excel sous Windows</li>
     <li>Données issues d’expériences en laboratoire</li>
