@@ -17,6 +17,7 @@
     <li>Nettoyage et structuration des données sous Excel pour des analyses cohérentes (filtrage, moyennes glissantes, suppression d’anomalies).</li>
     <li>Création d’un modèle numérique basé sur les bilans thermiques du capteur solaire pour simuler les températures et les comparer aux mesures réelles.</li>
     <li>Visualisation des écarts et tendances à l’aide de graphiques et tableaux dynamiques.</li>
+
   </ul>
 
   <h3>Résultats</h3>
@@ -38,7 +39,7 @@
   <h3>Langages et outils utilisés</h3>
   <ul>
     <li><strong>Languages :</strong> VBA, Formules Excel (matrices, statistiques)</li>
-    <li><strong>Utilities :</strong> Microsoft Excel, Graphiques dynamiques, Tableaux croisés</li>
+    <li><strong>Utilities :</strong> Microsoft Excel, Graphiques dynamiques</li>
   </ul>
 
   <h3>Environnements utilisés</h3>
@@ -47,5 +48,33 @@
     <li>Données issues d’expériences en laboratoire</li>
   </ul>
 
-### [Ouvrir la fiche projet](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
+### [Ouvrir le rapport du PRD](https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/Rapport%20PRD%20sechoire%20solaire.pdf)
+### [Ouvrir le fichier excel](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
+
+<p align="center">
+Schéma du principe de fonctionnement: <br/>
+<img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/schema.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Bilan du capteur solaire : <br/>
+<img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/bilan%20capteur%20solaire.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+équation : <br/>
+<img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/bilan%20du%20%20capteur%20solaire.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+matrice : <br/>
+<img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/matrice.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Résultat : <br/>
+<img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/result.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 </section>
