@@ -1,5 +1,7 @@
 <section id="excel-thermique">
-  <h2>Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire</h2>
+   
+### [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
+  <p>
 
   <h3>Objectif du projet</h3>
   <p>
@@ -44,4 +46,6 @@
     <li>Microsoft Excel sous Windows</li>
     <li>Données issues d’expériences en laboratoire</li>
   </ul>
+
+### [Ouvrir la fiche projet](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
 </section>
