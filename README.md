@@ -76,5 +76,10 @@ Résultat : <br/>
 <img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/result.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<p align="center">
+Résultat : <br/>
+<img src="https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/profil%20de%20temperature.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 </section>
