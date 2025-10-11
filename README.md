@@ -1,6 +1,6 @@
 <section id="excel-thermique">
    
-### [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
+### [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
   <p>
 
   <h3>Objectif du projet</h3>
@@ -49,7 +49,7 @@
   </ul>
 
 ### [Ouvrir le rapport du PRD](https://github.com/elomdegbe/Analyse-du-sechoir-solaire/blob/main/Rapport%20PRD%20sechoire%20solaire.pdf)
-### [Ouvrir le fichier excel](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=drive_link&ouid=105576741693069593396&rtpof=true&sd=true)
+### [Ouvrir le fichier excel](https://docs.google.com/spreadsheets/d/1wCROasIgh6vZGE2onrW7_ubu-wwTqz22/edit?usp=sharing&ouid=105576741693069593396&rtpof=true&sd=true)
 
 <p align="center">
 Schéma du principe de fonctionnement: <br/>
